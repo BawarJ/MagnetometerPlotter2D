@@ -64,7 +64,7 @@ void draw() {
   
   
   
-  int dir = 1; //<>//
+  int dir = 1;
   for (int y = 0; y < yPixels; y++) {
     int x=0;
     if (dir == 1)
